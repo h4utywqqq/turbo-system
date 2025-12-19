@@ -3,4 +3,4 @@ on:
 
 jobs:
   use-reusable:
-    uses: ./.github/workflows/blank.ymll
+    uses: ./.github/workflows/blank..yml
